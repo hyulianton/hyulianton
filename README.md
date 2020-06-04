@@ -1,6 +1,6 @@
-## Heribertus Yulianton
+## Profil
 
-Selamat Datang di halaman GitHub Heribertus Yulianton
+Selamat Datang di halaman profil GitHub Heribertus Yulianton
 
 
 
