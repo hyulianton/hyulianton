@@ -8,8 +8,8 @@ Selamat Datang di halaman profil GitHub saya
 [<img align="left" alt="heri.staff.unisbank.ac.id" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/website-logo.png" />][website]
 [<img align="left" alt="Heribertus Yulianton | Youtube" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/YouTube.svg" />][youtube]
 [<img align="left" alt="Heribertus Yulianton | Facebook" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/facebook.png" />][facebook]
-[<img align="left" alt="Heribertus Yulianton | Twitter" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/twitter.png" />][twitter]
-[<img align="left" alt="Heribertus Yulianton | Instagram" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/Instagram.png" />][instagram]
+[<img align="left" alt="Heribertus Yulianton | Twitter" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/twitter.svg" />][twitter]
+[<img align="left" alt="Heribertus Yulianton | Instagram" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/Instagram.svg" />][instagram]
 
 
 
