@@ -1,24 +1,38 @@
-## Hai, nama saya Heribertus Yulianton
+# 👋 Hai, saya Heribertus Yulianton
 
-Selamat Datang di halaman profil GitHub saya
+Selamat datang di halaman profil GitHub saya!  
+Saya adalah **Dosen Program Studi Teknik Informatika Universitas Stikubank Semarang**, dengan fokus pada **Cloud Computing, Big Data, dan Kecerdasan Buatan**.  
+Saya senang membangun jembatan antara **teknologi, teologi, dan praktik nyata** untuk memberdayakan orang lain melalui pengetahuan yang terstruktur.
 
+---
 
+## 🚀 Bidang Keahlian
+- Cloud Computing & Big Data
+- Jaringan Syaraf Tiruan & Advanced AI Techniques
+- Interdisipliner: Teknologi, Teologi, dan Pendidikan
+- Visual Pedagogy: Membuat konsep abstrak lebih mudah dipahami
 
-###  Terhubung dengan saya
-[<img align="left" alt="heri.staff.unisbank.ac.id" width="22px" src="https://github.com/hyulianton/hyulianton/raw/master/website-logo.png" />][website]
-[<img align="left" alt="Heribertus Yulianton | Youtube" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/YouTube.svg" />][youtube]
-[<img align="left" alt="Heribertus Yulianton | Facebook" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/facebook.png" />][facebook]
-[<img align="left" alt="Heribertus Yulianton | Twitter" width="22px" src="https://github.com/hyulianton/hyulianton.github.io/raw/hyulianton-patch-1/twitter.svg" />][twitter]
-[<img align="left" alt="Heribertus Yulianton | Instagram" width="22px" src="https://github.com/hyulianton/hyulianton/raw/master/Instagram.svg" />][instagram]
+---
 
+## 📚 Repositori Pilihan
+- [Arsitektur Komputer](https://github.com/hyulianton/arsitekturkomputer) – Materi kuliah Arsitektur Komputer  
+- [Big Data](https://github.com/hyulianton/BigData) – Catatan kuliah Big Data (Jupyter Notebook)  
+- [Jaringan Syaraf Tiruan](https://github.com/hyulianton/JaringanSyarafTiruan) – Materi kuliah JST  
+- [Jejaring Sosial](https://github.com/hyulianton/jejaringsosial) – Materi kuliah Jejaring Sosial  
 
+---
 
+## 🏆 Pencapaian
+- Kontributor aktif di berbagai repositori pendidikan
+- 50+ kontribusi dalam setahun terakhir
+- Mengembangkan materi kuliah berbasis **Jupyter Notebook** untuk pembelajaran interaktif
 
+---
 
+## 🌐 Terhubung dengan Saya
+- Website: [heri.staff.unisbank.ac.id](https://heri.staff.unisbank.ac.id)  
+- GitHub: [@hyulianton](https://github.com/hyulianton)  
 
+---
 
-[website]: https://heri.staff.unisbank.ac.id
-[youtube]: https://www.youtube.com/c/HeribertusYulianton/
-[facebook]: https://www.facebook.com/heribertus/
-[twitter]: https://twitter.com/heribertus
-[instagram]: https://www.instagram.com/hyulianton/
+✨ *“Membuat pengetahuan kompleks menjadi sederhana, agar dapat diakses dan dimanfaatkan oleh semua orang.”*
